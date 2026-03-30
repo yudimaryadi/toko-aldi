@@ -169,7 +169,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-50 border-t border-gray-100 mt-20">
         <div className="max-w-6xl mx-auto px-4 md:px-8 py-12 text-center text-gray-600 text-sm font-light">
-          <p>© 2026 Toko Aldi. Semua hak dilindungi.</p>
+          <p>© {new Date().getFullYear()} Toko Aldi. Semua hak dilindungi.</p>
         </div>
       </footer>
     </div>
