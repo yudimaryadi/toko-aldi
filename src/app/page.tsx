@@ -37,7 +37,7 @@ export default function Home() {
               sequence={[
                 'Belanja Lengkap',
                 2000,
-                'Harga Sahabat',
+                'Harga Bersahabat',
                 2000,
                 'Dekat di Hati',
                 2000,
